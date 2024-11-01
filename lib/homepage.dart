@@ -46,7 +46,7 @@ class FoodPandaHomePage extends StatelessWidget {
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
                   Image.asset(
-                    'assets/images/panda.png', // Path to your logo image
+                    'assets/images/panda.png', // Ensure this image exists in your project
                     height: 60,
                     width: 60,
                   ),
